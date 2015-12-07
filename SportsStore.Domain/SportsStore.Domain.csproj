@@ -80,6 +80,7 @@
     <Compile Include="Conrete\IProductsRepository.cs" />
     <Compile Include="Conrete\EFDbContext.cs" />
     <Compile Include="Conrete\EFProductRepository.cs" />
+    <Compile Include="Entities\Cart.cs" />
     <Compile Include="Entities\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
