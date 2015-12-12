@@ -79,7 +79,7 @@
   <ItemGroup>
     <Compile Include="Abstract\IOrderProcessor.cs" />
     <Compile Include="Conrete\EmailOrderProcessor.cs" />
-    <Compile Include="Conrete\IProductsRepository.cs" />
+    <Compile Include="Abstract\IProductsRepository.cs" />
     <Compile Include="Conrete\EFDbContext.cs" />
     <Compile Include="Conrete\EFProductRepository.cs" />
     <Compile Include="Entities\Cart.cs" />
