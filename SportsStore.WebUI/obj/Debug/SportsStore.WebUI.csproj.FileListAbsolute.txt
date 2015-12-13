@@ -42,10 +42,10 @@ c:\users\jordan wu\documents\visual studio 2015\Projects\SportsStore\SportsStore
 c:\users\jordan wu\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
 c:\users\jordan wu\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
 c:\users\jordan wu\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
-c:\users\jordan wu\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 c:\users\jordan wu\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 c:\users\jordan wu\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
 c:\Users\Jordan Wu\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
 c:\Users\Jordan Wu\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
 c:\Users\Jordan Wu\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
 c:\Users\Jordan Wu\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Jordan Wu\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
